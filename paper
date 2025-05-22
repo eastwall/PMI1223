@@ -2,6 +2,28 @@ STRUCTURE OF THE PAPER (Standard PMJ Style)
 Title & Abstract
 
 Introduction (Problem, relevance, objectives)
+Introduction
+The global transition to remote work has fundamentally reshaped how project teams operate, communicate, and collaborate. While offering flexibility, cost savings, and access to a broader talent pool, remote work has also introduced a series of unintended consequences that are becoming increasingly evident. Among these, social disconnection—a state where interpersonal bonds within teams weaken due to physical separation and limited spontaneous interaction—has emerged as a critical challenge for project organizations. Social disconnection manifests through reduced engagement, lack of trust, and deteriorating team cohesion, all of which undermine project performance and stakeholder satisfaction.
+
+In traditional in-office environments, non-verbal cues such as facial expressions, body language, and informal conversations play a crucial role in fostering trust and team rapport. Remote project teams, however, are deprived of these subtle yet powerful forms of communication. Asynchronous communication, virtual meetings, and chat-based interactions, while efficient in some contexts, often fall short in maintaining the richness of human connection required for high-performing project teams. This disconnection can lead to increased misunderstandings, lower morale, slower decision-making, and ultimately project failure.
+
+Despite growing awareness of the issue, early detection of social disconnection remains a significant gap in current project management practices. Most interventions today are reactive—addressing issues only after they have already impacted performance. Project managers typically rely on observable behaviors or self-reported surveys to assess team health, both of which are often too late, biased, or inaccurate. Consequently, there is a pressing need for proactive and data-driven mechanisms that can signal the early onset of disconnection and allow for timely intervention.
+
+This research proposes an innovative solution at the intersection of wearable sensing technologies and artificial intelligence (AI). By capturing real-time physiological and behavioral data—such as heart rate variability, stress indicators, speech patterns, and interaction frequency—we aim to develop a framework that can identify early signals of social disconnection among remote team members. This data, when processed using machine learning models, offers the potential to uncover patterns invisible to the human eye, enabling a more nuanced understanding of team dynamics in digital project environments.
+
+The proposed study is guided by the following research questions:
+
+How can physiological and behavioral data be used to detect early signs of social disconnection in remote project teams?
+
+What AI-driven techniques are most effective in modeling and predicting changes in interpersonal bonding in virtual environments?
+
+How can an adaptive project organization model leverage these insights to intervene and strengthen team cohesion in real time?
+
+By answering these questions, this research seeks to contribute to the evolving field of AI-enhanced project management through the development of an adaptive organizational model tailored for remote work environments. This model will not only provide early warnings of potential team dysfunctions but also recommend or trigger personalized, context-sensitive interventions aimed at restoring trust, engagement, and collaboration.
+
+The contributions of this study are both theoretical and practical. Theoretically, it advances our understanding of the relationship between human physiological responses, behavioral signals, and social dynamics in virtual project teams. Practically, it provides project managers, PMOs, and digital collaboration platforms with a scalable tool to support human-centric, resilient project work in increasingly digital and decentralized settings.
+
+In doing so, this research addresses a growing void in project management literature and practice, responding directly to calls for innovative, AI-driven solutions that support the human side of project delivery. As remote work continues to be a defining feature of modern project environments, developing intelligent systems that preserve and strengthen interpersonal bonds will be essential to sustaining team performance, well-being, and long-term organizational success.
 
 Literature Review (AI, remote work, social disconnection, wearable sensing)
 
